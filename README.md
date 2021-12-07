@@ -1,3 +1,6 @@
+## 说明
+学习开源AIopstools，直接fork自原仓库
+
 # aiopstools
 **Aiopstools** is a toolkit for aiops. It realizes some ops scenes by using ai. You can import modules easily to achieve functions.  
 
